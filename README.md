@@ -1,6 +1,5 @@
 # Mapbox Tutorial
 
-![map](https://prnt.sc/11ra09t)
 
 This repo contains files for a quick and fun project i worked on using [mapbox](https://www.mapbox.com/), an amazing platform that allows you to embed maps and many other navigation services in your applications
 
