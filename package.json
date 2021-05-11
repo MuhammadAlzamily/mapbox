@@ -1,0 +1,20 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "This repo contains files for a quick and fun project i worked on using [mapbox](https://www.mapbox.com/), an amazing platform that allows you to embed maps and many other navigation services in your applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAlzamily/mapbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadAlzamily/mapbox/issues"
+  },
+  "homepage": "https://github.com/MuhammadAlzamily/mapbox#readme"
+}
